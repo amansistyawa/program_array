@@ -1,0 +1,10 @@
+REPLACE
+SEND file httpd-vhosts.conf 
+D:\xampp\apache\conf\extra
+
+SEND file httpd.conf
+D:\xampp\apache\conf 
+
+SEND file PHP
+D:\xampp\phpS
+
